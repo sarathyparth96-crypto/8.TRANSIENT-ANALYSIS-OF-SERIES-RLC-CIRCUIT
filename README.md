@@ -1,4 +1,8 @@
-# 8.TRANSIENT-ANALYSIS-OF-SERIES-RLC-CIRCUIT
+** 8.TRANSIENT-ANALYSIS-OF-SERIES-RLC-CIRCUIT
+
+PARTHASARATHY 
+
+2512051
 
 **AIM:**
 
@@ -22,20 +26,22 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1078" height="498" alt="image" src="https://github.com/user-attachments/assets/7e1b02f8-420f-402d-b5f7-80bcdf56f0e9" />
 
-
-
+ 
 **TABULATION:**
+<img width="972" height="662" alt="image" src="https://github.com/user-attachments/assets/565e52f7-65f6-4f79-87e8-dbf90f5688f6" />
 
 
-**Calculation:**
-
+<img width="1046" height="760" alt="image" src="https://github.com/user-attachments/assets/570e8d69-7c94-4786-b5cf-c1724f25c1fb" />
 
 
 **Marksplitup:**
+  ![WhatsApp Image 2026-03-20 at 8 54 43 AM](https://github.com/user-attachments/assets/a6ce5fa0-6fe2-4567-9e11-c8a69b6f481f)
+
 
 
 **RESULT:**
 
 Thus the transient analysis of series RLC circuit is done practically using Multisim Simulator.
- 
+ **
